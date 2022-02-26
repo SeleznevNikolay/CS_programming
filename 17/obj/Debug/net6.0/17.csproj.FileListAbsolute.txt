@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Education/CS_programming/17/bin/Debug/net6.0/17
+/Users/admin/Desktop/Education/CS_programming/17/bin/Debug/net6.0/17.deps.json
+/Users/admin/Desktop/Education/CS_programming/17/bin/Debug/net6.0/17.runtimeconfig.json
+/Users/admin/Desktop/Education/CS_programming/17/bin/Debug/net6.0/17.dll
+/Users/admin/Desktop/Education/CS_programming/17/bin/Debug/net6.0/ref/17.dll
+/Users/admin/Desktop/Education/CS_programming/17/bin/Debug/net6.0/17.pdb
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.AssemblyInfo.cs
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.dll
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/ref/17.dll
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.pdb
+/Users/admin/Desktop/Education/CS_programming/17/obj/Debug/net6.0/17.genruntimeconfig.cache

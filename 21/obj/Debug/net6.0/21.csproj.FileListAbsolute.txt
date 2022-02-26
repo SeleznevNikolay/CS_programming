@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Education/CS_programming/21/bin/Debug/net6.0/21
+/Users/admin/Desktop/Education/CS_programming/21/bin/Debug/net6.0/21.deps.json
+/Users/admin/Desktop/Education/CS_programming/21/bin/Debug/net6.0/21.runtimeconfig.json
+/Users/admin/Desktop/Education/CS_programming/21/bin/Debug/net6.0/21.dll
+/Users/admin/Desktop/Education/CS_programming/21/bin/Debug/net6.0/ref/21.dll
+/Users/admin/Desktop/Education/CS_programming/21/bin/Debug/net6.0/21.pdb
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.AssemblyInfo.cs
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.dll
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/ref/21.dll
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.pdb
+/Users/admin/Desktop/Education/CS_programming/21/obj/Debug/net6.0/21.genruntimeconfig.cache
