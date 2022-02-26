@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Education/CS_programming/7/bin/Debug/net6.0/7
+/Users/admin/Desktop/Education/CS_programming/7/bin/Debug/net6.0/7.deps.json
+/Users/admin/Desktop/Education/CS_programming/7/bin/Debug/net6.0/7.runtimeconfig.json
+/Users/admin/Desktop/Education/CS_programming/7/bin/Debug/net6.0/7.dll
+/Users/admin/Desktop/Education/CS_programming/7/bin/Debug/net6.0/ref/7.dll
+/Users/admin/Desktop/Education/CS_programming/7/bin/Debug/net6.0/7.pdb
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.AssemblyInfo.cs
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.dll
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/ref/7.dll
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.pdb
+/Users/admin/Desktop/Education/CS_programming/7/obj/Debug/net6.0/7.genruntimeconfig.cache
